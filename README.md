@@ -1,4 +1,4 @@
-# flume-count-interceptor
+# flume-count-interceptor [![Build Status](https://travis-ci.org/saravsars/flume-count-interceptor.svg?branch=master)](https://travis-ci.org/saravsars/flume-count-interceptor)
 
 Flume interceptor that adds rolling count to each event in flume header which can be used to maintain the order of events
 
